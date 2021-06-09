@@ -19,7 +19,7 @@ Toy Robot is a ruby coding exercise that we get our potential candidates  comple
 - Create an application that can read in commands of the following form:
 
 ```
-PLACE X,Y,F
+PLACE X,Y,DIRECTION
 MOVE
 LEFT
 RIGHT
