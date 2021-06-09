@@ -79,28 +79,28 @@ Output: `3,3,NORTH`
 
 #### Why am I doing this ?
 
-At Mable we belive these kind of coding challanges will give us more visibility on the candidate's strengths. On the other have, candidates can show their 
+At Mable we belive these kind of coding challanges will give us more visibility on the candidate's strengths. On the other hand, candidates can show their 
 capabilities by applying what they already know. 
 
 #### What’s next ?
 
-- clone this repo
-- Do your changes
-- push your code and create a PR against this repo 
+- Clone this repo
+- Apply your changes
+- Push your code and create a PR against this repo 
 - Let us know that you've completed the work
 
 #### What do you expect as deliveries ? 
 
-While we love to see a working code, the most important aspects we are looking in to is, 
+While we love to see working code, the important things we are looking for are :
 
-- How you would approach a problem 
-- What sort of design techniques you'll be using (yes, you can over engineer this solution to show us what you can do :))
-- How you approach around testing 
+- How you approach a problem 
+- What sort of design techniques you'll be using (yes, you can over-engineer this solution to show us what you can do :))
+- How you approach testing 
 - Any other related documents (E.g README) that will help someone to set up and run this project.
 
 #### What are the next steps ? 
 
-Once you completed the exercise and let us know, we'll go through your code and if we are happy with your code, we'll contact you for the next step, which is a 
+Once you completed the exercise and create a PR, we'll go through your code and if we are happy with your code, we'll contact you for the next step, which is a 
 discussion on this code and your thinking / approach to this problem. 
 
 #### Toy robot is a very common coding test and I can find heaps of sample code ?
