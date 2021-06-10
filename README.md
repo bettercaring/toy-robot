@@ -86,8 +86,8 @@ capabilities by applying what they already know.
 
 - clone this repo
 - Do your changes
-- push your code and create a PR against this repo 
-- Let us know that you've completed the work
+- Send us a git archive or a link to a public git repo with your solution
+
 
 #### What do you expect as deliveries ? 
 
