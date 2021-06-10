@@ -79,7 +79,7 @@ Output: `3,3,NORTH`
 
 #### Why am I doing this ?
 
-At Mable we belive these kind of coding challanges will give us more visibility on the candidate's strengths. On the other have, candidates can show their 
+At Mable we belive these kind of coding challenges will give us more visibility on the candidate's strengths. On the other have, candidates can show their 
 capabilities by applying what they already know. 
 
 #### What’s next ?
@@ -94,7 +94,6 @@ capabilities by applying what they already know.
 While we love to see a working code, the most important aspects we are looking in to is, 
 
 - How you would approach a problem 
-- What sort of design techniques you'll be using (yes, you can over engineer this solution to show us what you can do :))
 - How you approach around testing 
 - Any other related documents (E.g README) that will help someone to set up and run this project.
 
@@ -107,7 +106,7 @@ discussion on this code and your thinking / approach to this problem.
 
 Yes, true, this is a very famous common test. However, we sincerely hope that you'll not just copy and paste a code from internet :). 
 
-Infact the author of this test himself has descibed, why this test is still relevent, even though there are many examples out there
+In Fact the author of this test himself has described, why this test is still relevant, even though there are many examples out there
 
 [Toy Robot Coding Puzzle](https://joneaves.wordpress.com/2014/07/21/toy-robot-coding-test/)
 
