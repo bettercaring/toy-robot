@@ -89,7 +89,7 @@ capabilities by applying what they already know.
 - Send us a git archive or a link to a public git repo with your solution
 
 
-#### What do WE expect as deliveries?
+#### What do We expect as deliveries?
 
 While we love to see a working code, the most important aspects we are looking in to is, 
 
