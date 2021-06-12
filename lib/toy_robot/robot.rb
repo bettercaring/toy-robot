@@ -13,23 +13,31 @@ module ToyRobot
     end
 
     def place(new_position)
-      @position = new_position
+      go_to_position new_position
     end
 
     def move
-      @position = position.move_forward
+      go_to_position position.move_forward
     end
 
     def left
-      @position = position.left
+      go_to_position position.left
     end
 
     def right
-      @position = position.right
+      go_to_position position.right
     end
 
     def report
       position
+    end
+
+    private
+
+    def go_to_position(new_position)
+      return unless table.valid_position? new_position
+
+      @position = new_position
     end
   end
 end

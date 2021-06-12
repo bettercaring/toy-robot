@@ -1,4 +1,4 @@
-RSpec.shared_examples "moves_correctly" do |parameter|
+RSpec.shared_examples "moves_and_turns_correctly" do |parameter|
   let(:direction) { parameter }
 
   describe "#move" do
