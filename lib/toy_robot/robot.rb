@@ -29,7 +29,7 @@ module ToyRobot
     end
 
     def report
-      position
+      position.to_s
     end
 
     private

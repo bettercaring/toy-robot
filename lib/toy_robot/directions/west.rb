@@ -2,6 +2,7 @@ module ToyRobot
   module Direction
     # This depicts West Direction Movement
     module West
+      FRIENDLY_NAME = "WEST".freeze
       X_MOVEMENT = -1
       Y_MOVEMENT = 0
 

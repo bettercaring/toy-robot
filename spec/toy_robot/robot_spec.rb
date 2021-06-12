@@ -10,22 +10,22 @@ RSpec.describe ToyRobot::Robot do
 
   subject { described_class.new(position, table) }
 
-  context "when facing east" do
+  context "when facing EAST" do
     include_examples "moves_and_turns_correctly", ToyRobot::Direction::East
     include_examples "stays_inside", ToyRobot::Direction::East
   end
 
-  context "when facing north" do
+  context "when facing NORTH" do
     include_examples "moves_and_turns_correctly", ToyRobot::Direction::North
     include_examples "stays_inside", ToyRobot::Direction::North
   end
 
-  context "when facing south" do
+  context "when facing SOUTH" do
     include_examples "moves_and_turns_correctly", ToyRobot::Direction::South
     include_examples "stays_inside", ToyRobot::Direction::South
   end
 
-  context "when facing west" do
+  context "when facing WEST" do
     include_examples "moves_and_turns_correctly", ToyRobot::Direction::West
     include_examples "stays_inside", ToyRobot::Direction::West
   end

@@ -24,8 +24,8 @@ module ToyRobot
       new_position direction: direction.right
     end
 
-    def to_h
-      { direction: direction, x_axis: x_axis, y_axis: y_axis }
+    def to_s
+      "#{x_axis}, #{y_axis}, #{direction::FRIENDLY_NAME}"
     end
 
     private
