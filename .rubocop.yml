@@ -1,0 +1,17 @@
+AllCops:
+  TargetRubyVersion: 2.7.3
+
+Style/StringLiterals:
+  Enabled: false
+
+Layout/ExtraSpacing:
+  Enabled: false
+
+Layout/SpaceAroundOperators:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Metrics/BlockLength:
+  Max: 50
