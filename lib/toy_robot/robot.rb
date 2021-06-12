@@ -7,13 +7,29 @@ module ToyRobot
     attr_accessor :table
     attr_reader :position
 
-    def initialize(position = 0, table = Table.new)
+    def initialize(position = Position.new, table = Table.new)
       @position = position
       @table = table
     end
 
+    def place(new_position)
+      @position = new_position
+    end
+
     def move
-      @position += 1
+      @position = position.move_forward
+    end
+
+    def left
+      @position = position.left
+    end
+
+    def right
+      @position = position.right
+    end
+
+    def report
+      position
     end
   end
 end
