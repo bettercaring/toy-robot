@@ -86,7 +86,7 @@ capabilities by applying what they already know.
 
 - clone this repo
 - Do your changes
-- Send us a git archive or a link to a public git repo with your solution
+- Email us the link to your public git repo with the solution
 
 
 #### What do We expect as deliveries?
